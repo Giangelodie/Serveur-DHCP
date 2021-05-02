@@ -1,0 +1,10 @@
+masque de reseau: [255.255.255.0]
+adresse serveur dhcp: [192.168.0.61]
+adresse box: [192.168.0.254]
+adresse broadcast: [192.168.0.255]
+plage d'adresse: ([192.168.0.1]-[192.168.0.210])([192.168.0.222]-[192.168.0.235])
+adresse fixe(0)/dynamique(1) : [0]
+Durée du bail: [86000]
+associer mac/ip: [(56:62:03:76:45:7f)-(192.168.0.19);(0a:e3:10:ff:7d:81)-(192.168.0.199)]
+blacklist mac: [0a:e3:10:ff:7d:81]
+adresse réseau : [192.168.0.0]
