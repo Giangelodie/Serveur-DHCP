@@ -1,0 +1,7 @@
+- Désarchiver l'archive
+
+- Pour lancer le serveur:
+sudo python3 serv_dhcp.py
+
+- Si vous ne possédez pas toutes les bibliothèques utilisées:
+pip3 install nom_bibliothèque
